@@ -1,3 +1,6 @@
 [submodule "NoneTouchElevator"]
 	path = NoneTouchElevator
 	url = git@github.com:Tu-Gia-ThinhNGUYEN/NoneTouchElevator.git
+[submodule "elevator_SCADA"]
+	path = elevator_SCADA
+	url = git@github.com:Tu-Gia-ThinhNGUYEN/elevator_SCADA.git
